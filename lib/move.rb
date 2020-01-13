@@ -1,5 +1,8 @@
 board = [" "," "," "," "," "," "," "," "," "]
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7334e54a2068237ad96735845ffc25bbd36f5828
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
   puts "-----------"
